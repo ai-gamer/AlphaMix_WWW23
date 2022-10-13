@@ -8,5 +8,5 @@ python train_alphamix.py
 ## Some experiment results
 
 <div align="center">
-<img align="center" src=figure/Logo.png width="80%"/>
+<img align="center" src=alphamix.jpg width="80%"/>
 </div>
